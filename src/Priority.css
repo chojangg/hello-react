@@ -1,0 +1,22 @@
+#title1.title {
+  /* 우선 순위 110 */
+  color: darkblue;
+}
+
+#title1 {
+  /* 우선 순위 100 */
+  color: plum
+}
+
+.title {
+  /* 우선 순위 10 */
+  color: blueviolet;
+}
+
+h1 {
+  color: blue;
+}
+
+h1 {
+  color: aquamarine;
+}

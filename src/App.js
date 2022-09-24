@@ -12,8 +12,8 @@ function App() {
       {element}
       {element2} */}
       <h1 id="title1" className="title">오늘의 체크인 기록</h1>
-      <CheckInRecoed name="최자윤" score={2} comment="피곤"></CheckInRecoed>
-      <CheckInRecoed name="alicia" score={5} comment="hi"/>
+      <CheckInRecoed name="최자윤" score={2} comment="프로젝트가 많아서 걱정"></CheckInRecoed>
+      <CheckInRecoed name="alicia" score={5} comment="시험이 2주도 안남아서 걱정"/>
       <h1 className="title">학생 목록</h1>
       <Student name="Alicia1"/>
       <Student name="Alicia2"/>
